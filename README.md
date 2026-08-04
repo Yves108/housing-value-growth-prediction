@@ -27,7 +27,7 @@ Key results from the completed analysis:
 
 - `housing_value_growth_analysis.ipynb` — complete analysis and modeling workflow
 - `housing_project_data/` — Zillow and Redfin course-project data snapshots
-- `housing_project_report_final.pdf` — final written report
+- `PROJECT_REPORT.md` — concise findings and interpretation
 - `requirements.txt` — Python dependencies
 
 ## Run the analysis
@@ -50,5 +50,5 @@ The included files are course-project snapshots used to make the analysis reprod
 
 ## Attribution
 
-This project was completed as an OMIS 114 course team project. This portfolio repository is maintained by Zhiyi Li and presents the team's submitted analysis with its original notebook outputs and final report.
+This project was completed as an OMIS 114 course team project. This portfolio repository is maintained by Zhiyi Li and presents the team's submitted analysis with its original notebook outputs.
 
